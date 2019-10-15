@@ -668,7 +668,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-bottom: 4em;
 }
 .bg_img123{
-  background-color:#f0b25b;
+  background-color:#e2b664;
 }
 .fh5co-project {
   margin-bottom: 30px;
@@ -1679,5 +1679,5 @@ h1, h2, h3, h4, h5, h6, figure {
   position: fixed;
   top: 0;
   width: 80%;
-  background-color:  rgba(0, 0, 0, 0.6);
+  background-color:  rgba(0, 0, 0, 0.8);
 }
